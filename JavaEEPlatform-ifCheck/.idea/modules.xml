@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEEPlatform-master.iml" filepath="$PROJECT_DIR$/.idea/JavaEEPlatform-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.SpringFrameWork/AdminUI/adminui.iml" filepath="$PROJECT_DIR$/1.SpringFrameWork/AdminUI/adminui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.SpringFrameWork/autowiredemo/autowiredemo.iml" filepath="$PROJECT_DIR$/1.SpringFrameWork/autowiredemo/autowiredemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.SpringFrameWork/beanlifecycle/beanlifecycle.iml" filepath="$PROJECT_DIR$/1.SpringFrameWork/beanlifecycle/beanlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. SpringMvc/RestFulDemo/restfuldemo.iml" filepath="$PROJECT_DIR$/2. SpringMvc/RestFulDemo/restfuldemo.iml" />
+    </modules>
+  </component>
+</project>

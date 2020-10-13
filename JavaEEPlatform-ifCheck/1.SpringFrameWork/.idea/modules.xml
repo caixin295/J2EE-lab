@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.SpringFrameWork.iml" filepath="$PROJECT_DIR$/.idea/1.SpringFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdminUI/adminui.iml" filepath="$PROJECT_DIR$/AdminUI/adminui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autowiredemo/autowiredemo.iml" filepath="$PROJECT_DIR$/autowiredemo/autowiredemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beanlifecycle/beanlifecycle.iml" filepath="$PROJECT_DIR$/beanlifecycle/beanlifecycle.iml" />
+    </modules>
+  </component>
+</project>
