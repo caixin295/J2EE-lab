@@ -10,9 +10,9 @@ spring:
         url: http://localhost:8081
 server:
   port: 8080
-#   tomcat:
-#     uri-encoding: UTF-8
-#     max-connections: 20000
-#     accept-count: 10000
-#     threads:
-#       max: 3000
+  tomcat:
+    uri-encoding: UTF-8
+    max-connections: 20000
+    accept-count: 8000
+    threads:
+      max: 4000
